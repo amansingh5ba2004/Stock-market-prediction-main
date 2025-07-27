@@ -1,4 +1,3 @@
-Here's a professional and informative `README.md` file for your LSTM-based stock price prediction project:
 
 ---
 
